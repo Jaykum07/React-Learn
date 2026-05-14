@@ -1,0 +1,30 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "This is jay and learning react",
+  "homepage": "https://github.com/Jaykum07/React-Learn#readme",
+  "bugs": {
+    "url": "https://github.com/Jaykum07/React-Learn/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaykum07/React-Learn.git"
+  },
+  "license": "ISC",
+  "author": "jay kumrawat",
+  "type": "commonjs",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  },
+  "browsersList":[
+    "Last 2 versions"
+  ]
+}
